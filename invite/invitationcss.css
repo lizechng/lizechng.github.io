@@ -1,0 +1,28 @@
+body{
+    display:box;
+    display: -moz-box;
+    -moz-box-orient: vertical;
+    -moz-box-orient: vertical;
+    background-color: #f2eada;
+}
+h1{
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 70px;
+}
+h3{
+     font-family: 楷体;
+     text-align: center;
+     font-size: 40px;
+}
+h4{
+    font-family: 楷体;
+    text-align: center;
+    font-size: 30px;
+    color:#a03939;
+}
+hr{
+    border:2px solid #6d5826;
+    width:75%;
+}
