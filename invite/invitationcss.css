@@ -22,6 +22,13 @@ h4{
     font-size: 30px;
     color:#a03939;
 }
+
+h5{
+    font-family: Times New Roman;
+    text-align: center;
+    font-size: 16px;
+    color:#a03939;
+}
 hr{
     border:2px solid #6d5826;
     width:75%;
